@@ -39,7 +39,7 @@ def create_pattern(value):
         print('Please enter an integer value')
         return
 
-    # Generate the upper part of the pattern
+    # Generate the Upper Portion of the pattern
     draw_upper_section(value)
     # Generate the final lines of the pattern
     draw_final_lines(value)
